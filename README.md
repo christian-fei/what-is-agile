@@ -1,6 +1,8 @@
 what-is-agile
 =============
 
+- [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
+  - [notes](notes/user-stories.md)
 - [What is Agile Project Management?](https://www.mountaingoatsoftware.com/agile/agile-project-management)
   - [notes](notes/what-is-agile-project-management.md)
 - [Agile Software Development](https://www.mountaingoatsoftware.com/agile/transitioning-to-agile#resources)

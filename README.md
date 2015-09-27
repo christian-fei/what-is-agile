@@ -11,3 +11,7 @@ what-is-agile
   - [notes](notes/what-is-agile.md)
 
 
+## bookmarks
+
+- [https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum](https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum)
+- [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)

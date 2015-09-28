@@ -1,6 +1,8 @@
 what-is-agile
 =============
 
+- [Don’t Know What I Want, But I Know How to Get It](http://jpattonassociates.com/dont_know_what_i_want/)
+  - [notes](notes/dont-know-what-i-want.md)
 - [Agile methodology](http://agilemethodology.org/)
   - [notes](notes/agilemethodology.md)
 - [Agile manifesto principles](http://agilemanifesto.org/principles.html)
@@ -19,4 +21,5 @@ what-is-agile
 
 ## bookmarks
 
+- [http://jpattonassociates.com/dont_know_what_i_want/](http://jpattonassociates.com/dont_know_what_i_want/)
 - [http://scrumreferencecard.com/scrum-reference-card/](http://scrumreferencecard.com/scrum-reference-card/)

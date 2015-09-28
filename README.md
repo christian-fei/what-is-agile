@@ -1,6 +1,8 @@
 what-is-agile
 =============
 
+- [Agile methodology](http://agilemethodology.org/)
+  - [notes](notes/agilemethodology.md)
 - [Agile manifesto principles](http://agilemanifesto.org/principles.html)
   - [notes](notes/agilemanifesto-principles.md)
 - [Agile, Scrum](https://www.mountaingoatsoftware.com/agile/scrum)
@@ -17,4 +19,4 @@ what-is-agile
 
 ## bookmarks
 
-- [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)
+- [http://scrumreferencecard.com/scrum-reference-card/](http://scrumreferencecard.com/scrum-reference-card/)

@@ -21,5 +21,5 @@ what-is-agile
 
 ## bookmarks
 
-- [http://jpattonassociates.com/dont_know_what_i_want/](http://jpattonassociates.com/dont_know_what_i_want/)
 - [http://scrumreferencecard.com/scrum-reference-card/](http://scrumreferencecard.com/scrum-reference-card/)
+- [http://alistair.cockburn.us/Three+cards+for+user+rights](http://alistair.cockburn.us/Three+cards+for+user+rights)

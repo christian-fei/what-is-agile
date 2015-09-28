@@ -1,6 +1,8 @@
 what-is-agile
 =============
 
+- [Agile, Scrum](https://www.mountaingoatsoftware.com/agile/scrum)
+  - [notes](notes/agile-scrum.md)
 - [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories)
   - [notes](notes/user-stories.md)
 - [What is Agile Project Management?](https://www.mountaingoatsoftware.com/agile/agile-project-management)
@@ -13,5 +15,3 @@ what-is-agile
 
 ## bookmarks
 
-- [https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum](https://www.mountaingoatsoftware.com/agile/new-to-agile-or-scrum)
-- [https://www.mountaingoatsoftware.com/agile/scrum](https://www.mountaingoatsoftware.com/agile/scrum)

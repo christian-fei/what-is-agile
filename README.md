@@ -23,3 +23,11 @@ what-is-agile
 
 - [http://scrumreferencecard.com/scrum-reference-card/](http://scrumreferencecard.com/scrum-reference-card/)
 - [http://alistair.cockburn.us/Three+cards+for+user+rights](http://alistair.cockburn.us/Three+cards+for+user+rights)
+- [https://medium.com/product-love/the-dark-side-of-scrum-d36657e5bc61](https://medium.com/product-love/the-dark-side-of-scrum-d36657e5bc619)
+- [https://medium.com/@gclaps/what-elon-musk-taught-me-about-agile-software-development-7300d8c2adb5](https://medium.com/@gclaps/what-elon-musk-taught-me-about-agile-software-development-7300d8c2adb5)
+- [https://medium.com/@shoobe01/more-agile-more-problems-a5169c0a8b28](https://medium.com/@shoobe01/more-agile-more-problems-a5169c0a8b28)
+- [https://medium.com/@kajurria/why-implementing-scrum-has-nothing-to-do-with-agile-c06a32fc3e45](https://medium.com/@kajurria/why-implementing-scrum-has-nothing-to-do-with-agile-c06a32fc3e45)
+- [https://medium.com/@jayjump/how-we-run-agile-teams-without-estimates-86e3198f9d7f](https://medium.com/@jayjump/how-we-run-agile-teams-without-estimates-86e3198f9d7f)
+- [https://medium.com/product-manager-club/10-ways-to-improve-your-agile-process-f63ca29a17c](https://medium.com/product-manager-club/10-ways-to-improve-your-agile-process-f63ca29a17c)
+- [https://medium.com/@blessingoraz/agile-development-ce55a404a0e7](https://medium.com/@blessingoraz/agile-development-ce55a404a0e7)
+- [https://blog.activecollab.com/agile-the-buzzword-8eb385e4a87a](https://blog.activecollab.com/agile-the-buzzword-8eb385e4a87a)
